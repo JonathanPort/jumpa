@@ -4,9 +4,7 @@ A simple page jumping plugin written in ES6 JS. Compiles to simple & lightweight
 
 
 
-###### Made by Jonathan Port. Any contructive criticism/feedback is welcome. Any negatives I haven't got time for. Life's too short.
-
-### This is my first git repo so please help out where you can. I'm learning as I go so any positive suggestions are welcome :)
+###### Made by Jonathan Port. Any contructive criticism/feedback is welcome. Any negatives I haven't got time for. Life's too short. This is my first git repo so please help out where you can. I'm learning as I go so any positive suggestions are welcome :)
 
 ---
 

@@ -2,7 +2,7 @@
   "name": "jumpa",
   "version": "1.0.0",
   "description": "JS plugin to add easy page/element jumping to website/app",
-  "main": "dist/Jumpa.js",
+  "main": "src/Jumpa.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
