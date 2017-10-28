@@ -37,9 +37,9 @@ will take care of the rest.
 
 The default options so far are:
 
-..* Duration: (How long the animation between jumps should last)<br>
-..* Easing: (What kind of animation should happen)<br>
-..* Callback: (What custom stuff you want to happen after jump is finished)
+* Duration: (How long the animation between jumps should last)<br>
+* Easing: (What kind of animation should happen)<br>
+* Callback: (What custom stuff you want to happen after jump is finished)
 
 `let options = {
 	duration: 2000,
