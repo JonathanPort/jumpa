@@ -1,6 +1,6 @@
 {
   "name": "jumpa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JS plugin to add easy page/element jumping to website/app",
   "main": "src/Jumpa.js",
   "scripts": {
