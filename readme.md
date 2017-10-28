@@ -24,7 +24,7 @@ Now Jumpa is loaded into your source code. It's really lightweight. Don't worry!
 
 ---
 
-### Automatic
+### Automatic Mode
 
 For Automatic mode simply add `data-jumpy` and then the tsrget `data-jumpy-target=".target-jump-to-elem"` to the element that you want to be clicked on to jump. Do this for each element you wish this to happen for and:
 
@@ -51,7 +51,7 @@ The default options so far are:
 
 `Jumpa.automatic(options);`
 
-### Semi-Automatic
+### Semi-Automatic Mode
 
 Semi automatic allows you to set individual elements to jump instead of auto selecting every elem on page via dat attributes. This way you can target custem elements via JS by setting the clickable jumpa elem and target individually:
 
@@ -61,7 +61,7 @@ Semi automatic allows you to set individual elements to jump instead of auto sel
 `Jumpa.semiAutomatic(jumper, targetElement, options);`
 
 
-### Manual
+### Manual Mode
 
 Manual mode cuts out the event listeners and allows you to use the Jumpa scripts how you like:
 
