@@ -1,11 +1,25 @@
 {
   "name": "jumpa",
   "version": "1.0.0",
-  "description": "Package to add page jumping to website/app",
-  "main": "dist/jumpa.js",
+  "description": "JS plugin to add easy page/element jumping to website/app",
+  "main": "dist/Jumpa.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanPort/jumpa.git"
+  },
+  "keywords": [
+    "Page",
+    "Jumping",
+    "auto",
+    "scrolling"
+  ],
+  "author": "Jonathan Port (@jfreemanport)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanPort/jumpa/issues"
+  },
+  "homepage": "https://github.com/JonathanPort/jumpa#readme"
 }
