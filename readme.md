@@ -18,7 +18,7 @@ Install through NPM: (Or manually via copying file through dist folder..)
 
 After NPM install, simply require Jumpa into a variable:
 
-`const Jumpa = require('../components/Jumpa');`
+`const Jumpa = require('jumpa');`
 
 Now Jumpa is loaded into your source code. It's really lightweight. Don't worry!
 
