@@ -41,7 +41,7 @@ In your code, you can now call on Jumpa through a pre-defined `Jumpa` variable
 
 #### Automatic Mode
 
-For Automatic mode simply add `data-jumpy` and then the target `data-jumpy-target=".target-jump-to-elem"` to the element that you want to be clicked on to perform the jump. Do this for each element you wish this to happen for and call:
+For Automatic mode simply add `data-jumpa` and then the target `data-jumpa-target=".target-jump-to-elem"` to the element that you want to be clicked on to perform the jump. Do this for each element you wish this to happen for and call:
 
 ```javascript
 Jumpa.automatic();

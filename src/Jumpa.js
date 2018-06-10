@@ -317,4 +317,4 @@ class Jumpa {
 
 }
 
-module.exports = new Jumpa();
+export default new Jumpa();

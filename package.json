@@ -1,10 +1,11 @@
 {
   "name": "jumpa",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "JS plugin to add easy page/element jumping to website/app",
   "main": "/src/Jumpa.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "develop": "webpack --mode development --watch",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/JonathanPort/jumpa/issues"
   },
-  "homepage": "https://github.com/JonathanPort/jumpa#readme"
+  "homepage": "https://github.com/JonathanPort/jumpa#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.1"
+  }
 }
